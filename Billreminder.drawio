@@ -42,12 +42,12 @@
         </mxCell>
         <UserObject label="&lt;font&gt;https://fulfilment-facade-qa.fcpainternal.in/health&lt;/font&gt;" link="https://fulfilment-facade-qa.fcpainternal.in/health" id="gjNtZo99XuUkxoSSHXK9-13">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;fontFamily=Times New Roman;textShadow=1;labelBorderColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-            <mxGeometry x="10" y="320" width="230" height="30" as="geometry" />
+            <mxGeometry x="10" y="290" width="230" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://billreminder-qa.fcpainternal.in/health" link="https://billreminder-qa.fcpainternal.in/health" id="gjNtZo99XuUkxoSSHXK9-15">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;fontFamily=Times New Roman;textShadow=1;labelBorderColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-            <mxGeometry x="250" y="305" width="230" height="60" as="geometry" />
+            <mxGeometry x="260" y="290" width="230" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ims-staging.fcinternal.in" id="gjNtZo99XuUkxoSSHXK9-16">
