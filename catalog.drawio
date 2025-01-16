@@ -67,7 +67,7 @@
         </UserObject>
         <UserObject label="https://billstore-qa.fcpainternal.in/health" link="https://billstore-qa.fcpainternal.in/health" id="CgaA7lfagobDSWBrxrx8-19">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;fontFamily=Times New Roman;textShadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-            <mxGeometry x="40" y="480" width="320" height="38" as="geometry" />
+            <mxGeometry x="40" y="470" width="320" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://catalog-qa.fcpainternal.in/health" link="https://catalog-qa.fcpainternal.in/health" id="CgaA7lfagobDSWBrxrx8-20">
@@ -77,12 +77,12 @@
         </UserObject>
         <UserObject label="https://recharge-qa.fcpainternal.in/health" link="https://recharge-qa.fcpainternal.in/health" id="CgaA7lfagobDSWBrxrx8-21">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;fontFamily=Times New Roman;textShadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-            <mxGeometry x="639" y="200" width="320" height="30" as="geometry" />
+            <mxGeometry x="560" y="200" width="320" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="https://aggregatorconnect-qa.fcpainternal.in/health" link="https://aggregatorconnect-qa.fcpainternal.in/health" id="CgaA7lfagobDSWBrxrx8-22">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;fontFamily=Times New Roman;textShadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-            <mxGeometry x="559" y="570" width="400" height="30" as="geometry" />
+            <mxGeometry x="480" y="568" width="400" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
